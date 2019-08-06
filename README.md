@@ -46,12 +46,19 @@ This is my repository of my personal projects for progressing my own learning & 
 > to predict salaries and accuracy in datasets
 
 
+
 ### Data Science
 > This is a personal project from using the Rstudio application
+
 > I have used the free housing test data supplied my Kaggle for
+
 > predicting house pricing and used a concept called XGBoost to
+
 > predict house prices. This method is fairly new but does return
+
 > highly accurate results.
+
+
 
 ##### Contact Details:
 
