@@ -1,9 +1,8 @@
-# QA consulting
+# My Projects
 
 ---
 
-This is my repository of my work at QA consulting
-
+This is my repository of my personal projects for progressing my own learning & knowledge
 
 
 ### Python
@@ -51,4 +50,4 @@ This is my repository of my work at QA consulting
 
 ##### Contact Details:
 
-E-mail: Imran.Rafique@academytrainee.com
+E-mail: Imran.R1989@googlemail.com
