@@ -1,0 +1,22 @@
+c:\users\user\documents\visual studio 2013\Projects\Space Invaders the remake\Space Invaders the remake\bin\Debug\Space Invaders the remake.exe.config
+c:\users\user\documents\visual studio 2013\Projects\Space Invaders the remake\Space Invaders the remake\bin\Debug\Space Invaders the remake.exe
+c:\users\user\documents\visual studio 2013\Projects\Space Invaders the remake\Space Invaders the remake\bin\Debug\Space Invaders the remake.pdb
+c:\users\user\documents\visual studio 2013\Projects\Space Invaders the remake\Space Invaders the remake\obj\Debug\Space Invaders the remake.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\Space Invaders the remake\Space Invaders the remake\obj\Debug\Space_Invaders_the_remake.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\Space Invaders the remake\Space Invaders the remake\obj\Debug\Space_Invaders_the_remake.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\Space Invaders the remake\Space Invaders the remake\obj\Debug\Space Invaders the remake.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\Space Invaders the remake\Space Invaders the remake\obj\Debug\Space Invaders the remake.exe
+c:\users\user\documents\visual studio 2013\Projects\Space Invaders the remake\Space Invaders the remake\obj\Debug\Space Invaders the remake.pdb
+C:\Users\User\Desktop\C++ & C#\Space Invaders the remake\Space Invaders the remake\bin\Debug\Space Invaders the remake.exe.config
+C:\Users\User\Desktop\C++ & C#\Space Invaders the remake\Space Invaders the remake\obj\Debug\Space Invaders the remake.exe
+C:\Users\User\Desktop\C++ & C#\Space Invaders the remake\Space Invaders the remake\obj\Debug\Space Invaders the remake.pdb
+C:\Users\User\Desktop\Uni Work and shit\C++ & C#\Space Invaders the remake\Space Invaders the remake\bin\Debug\Space Invaders the remake.exe.config
+C:\Users\User\Desktop\Uni Work and shit\C++ & C#\Space Invaders the remake\Space Invaders the remake\obj\Debug\Space Invaders the remake.exe
+C:\Users\User\Desktop\Uni Work and shit\C++ & C#\Space Invaders the remake\Space Invaders the remake\obj\Debug\Space Invaders the remake.pdb
+C:\Users\User\Desktop\Uni Work and shit\C++ & C#\Space Invaders the remake\Space Invaders the remake\bin\Debug\Space Invaders the remake.exe
+C:\Users\User\Desktop\Uni Work and shit\C++ & C#\Space Invaders the remake\Space Invaders the remake\bin\Debug\Space Invaders the remake.pdb
+C:\Users\User\Desktop\Uni Work and shit\C++ & C#\Space Invaders the remake\Space Invaders the remake\obj\Debug\Space_Invaders_the_remake.Form1.resources
+C:\Users\User\Desktop\Uni Work and shit\C++ & C#\Space Invaders the remake\Space Invaders the remake\obj\Debug\Space_Invaders_the_remake.Properties.Resources.resources
+C:\Users\User\Desktop\Uni Work and shit\C++ & C#\Space Invaders the remake\Space Invaders the remake\obj\Debug\Space Invaders the remake.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Uni Work and shit\C++ & C#\Space Invaders the remake\Space Invaders the remake\obj\Debug\Space Invaders the remake.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Uni Work and shit\C++ & C#\Space Invaders the remake\Space Invaders the remake\obj\Debug\Space Invaders the remake.csproj.CoreCompileInputs.cache
